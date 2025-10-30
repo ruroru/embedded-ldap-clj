@@ -4,7 +4,7 @@ embedded-ldap-clj is an embedded in-memory ldap server.
 ## Installation
 Add embedded-ldap-clj to dependency list
 ```clojure
-[org.clojars.jj/embedded-ldap-clj "1.0.0-SNAPSHOT"]
+[org.clojars.jj/embedded-ldap-clj "1.0.0"]
 ```
 
 ## Usage

@@ -1,4 +1,4 @@
-(defproject org.clojars.jj/embedded-ldap-clj  "1.0.0-SNAPSHOT"
+(defproject org.clojars.jj/embedded-ldap-clj  "1.0.0"
   :description "Embedded ldap server"
   :url "https://github.com/ruroru/embedded-ldap-clj"
   :license {:name "EPL-2.0"
